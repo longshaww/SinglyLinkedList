@@ -4,7 +4,7 @@
 [LinkedList](https://i.ytimg.com/vi/ZBdE8DElQQU/maxresdefault.jpg)
 
 ## Languge
-***Javascript
+***[Javascript](https://www.javascript.com/)
 
 ## Libaries
 -[ChaiJS](https://www.chaijs.com/)
@@ -28,10 +28,10 @@ or
 
 ***Run the testCase
 ```
-  Download VSCode GoLive extension then GoLive [index.html]
+  Download VSCode GoLive extension then GoLive ```index.html```
 ```
 
-***Edit testCase in file [index.js] or [index.test.js]
+***Edit testCase in file ```index.js``` or ```index.test.js```
 
 
 
