@@ -4,7 +4,7 @@
 [LinkedList](https://i.ytimg.com/vi/ZBdE8DElQQU/maxresdefault.jpg)
 
 ## Languge
-***[Javascript](https://www.javascript.com/)
+[Javascript](https://www.javascript.com/)
 
 ## Libaries
 -[ChaiJS](https://www.chaijs.com/)
