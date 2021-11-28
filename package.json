@@ -1,6 +1,6 @@
 {
 	"type": "module",
 	"scripts": {
-		"test": "jest --coverage"
+		"start": "node index.js"
 	}
 }
