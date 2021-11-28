@@ -22,16 +22,17 @@ npm install
 ```
 
 ## Usage
-***Start the server
+
+### Start the server
 ``` npm start ```
 or
 ``` node index.js ```
 
-***Run the testCase
+### Run the testCase
 
   Download VSCode [LiveSever](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension then GoLive ```index.html```
   
-***Edit testCase in file ```index.js``` or ```index.test.js```
+### Edit testCase in file ```index.js``` or ```index.test.js```
 
 
 
