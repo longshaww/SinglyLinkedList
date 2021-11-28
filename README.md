@@ -3,14 +3,14 @@
 ## Struc
 [LinkedList](https://i.ytimg.com/vi/ZBdE8DElQQU/maxresdefault.jpg)
 
-##Languge
+## Languge
 ***Javascript
 
-##Libaries
+## Libaries
 -[ChaiJS](https://www.chaijs.com/)
 -[MochaJS](https://mochajs.org/)
 
-##Installation
+## Installation
 To clone the project
 ```
 git clone https://github.com/longshaww/SinglyLinkedList
