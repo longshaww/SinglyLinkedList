@@ -132,6 +132,7 @@ class LinkedList {
 	//Print list data
 	printListData() {
 		let current = this.head;
+		console.log("LinkedList:");
 		while (current) {
 			console.log(current.data);
 			current = current.next;
@@ -156,4 +157,23 @@ class ListLinkedList {
 	}
 }
 
+const linkedList = new LinkedList();
+linkedList.insertFirst(100);
+linkedList.insertLast(200);
+linkedList.insertLast(400);
+linkedList.insertLast(500);
+linkedList.insertAt(300, 1);
+
+linkedList.printListData();
+
+linkedList.removeAtFirst();
+linkedList.removeAtLast();
+linkedList.removeByValue(200);
+linkedList.removeAt(1);
+// linkedList.clearList();
+
+linkedList.printListData();
+console.log(linkedList);
 export { Node, LinkedList, ListLinkedList };
+
+//Github có document
