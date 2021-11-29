@@ -1,6 +1,9 @@
 {
 	"type": "module",
 	"scripts": {
-		"start": "node index.js"
+		"start": "node --experimental-modules index.js"
+	},
+	"dependencies": {
+		"static-server": "^2.2.1"
 	}
 }
